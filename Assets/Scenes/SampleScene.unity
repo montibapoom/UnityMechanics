@@ -361,6 +361,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 6242118233850320060, guid: a592577ad4321534ab68c175fd6abd5f, type: 3}
+      propertyPath: portalActivationRadius
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 6242118233850320063, guid: a592577ad4321534ab68c175fd6abd5f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
