@@ -206,7 +206,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0b7986c544064654ea0831de7ce2396e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  next: {fileID: 1493979409397005279}
+  connectedPortal: {fileID: 1493979409397005279}
   spawnPoint: {fileID: 1493979407724624330}
 --- !u!1 &1493979409397005266
 GameObject:
@@ -319,5 +319,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0b7986c544064654ea0831de7ce2396e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  next: {fileID: 1493979408917443390}
+  connectedPortal: {fileID: 1493979408917443390}
   spawnPoint: {fileID: 1493979408410073895}

@@ -23,7 +23,7 @@ public class TeleportableMan : MonoBehaviour
             {
                 var portal = portalCollidersBuffer[0].GetComponent<Portal>();
 
-                portal.Teleport(this.transform, portal);
+                portal.Teleport(this.transform);
                 AlreadyTeleported = true;
             }
         }
